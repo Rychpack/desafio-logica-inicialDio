@@ -1,5 +1,5 @@
 let heroi = "Felipe Magal"
-let experiencia = 200000
+let experiencia = 9756
 
 if (experiencia < 1000) {
     experiencia = "Ferro"
