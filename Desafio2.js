@@ -1,5 +1,3 @@
-
-
 function QueueChallenger(challenger) {
     let printData = GetDataChallenger()
     if (printData <= 10) {
